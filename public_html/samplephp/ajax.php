@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>SamplePHP - Ajax<title>
+<title>SamplePHP - Ajax</title>
 <link rel=stylesheet type="text/css"
 	href="http://www.lunarrays.com/samplephp/styles/gen_styles.css"
 	title="SamplePHPStyles">
