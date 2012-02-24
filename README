@@ -1,0 +1,13 @@
+RByczko, 2012-02-23 (Feb 23, 2012)
+This repository serves to store an initial effort at making
+a portfolio website for myself. It is a place to organize
+new concepts.  However, as will be put into github soon,
+index.php was taken over by indexNew.php.
+
+Accordingly, this website is in a very rough draft form.
+It is not completely populated in the repo; it just exists
+on my shared hosting.  Thus a reverse deployment will occur.
+
+NOTE: the files in this repo do not come very close to specifying
+the full set intended for this rough draft web site. Git add
+and commit is ongoing!
