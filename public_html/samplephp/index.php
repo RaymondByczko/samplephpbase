@@ -2,7 +2,7 @@
 <head>
 <title>SamplePHP - Home</title>
 <link rel=stylesheet type="text/css"
-	href="http://www.lunarrays.com/samplephp/styles/gen_styles.css"
+	href="styles/gen_styles.css"
 	title="SamplePHPStyles">
 <script language="JavaScript" type="text/javascript" src="javascript/generalevents.js"></script>
 </head>

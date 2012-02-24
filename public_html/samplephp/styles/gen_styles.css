@@ -1,0 +1,8 @@
+H1 {color: blue; font-style: italic; height:100px}
+/* .leftc {color:red; left-margin: 0.5cm; right-margin: 0.5cm; width=400} */
+.leftc {text-align: center; color: blue; width: 200; background-color: lime}
+body #ajax_html .leftc {text-align: center; color: white; width: 200; background-color: red}
+/*  .unitbl {border: 20; border-width: 0; border-style: groove} */
+/* .unitbl {rules: none; border: 20} */
+#help_here {color: blue; font-size: 10pt}
+
